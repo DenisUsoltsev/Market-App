@@ -1,0 +1,29 @@
+{
+  "name": "market-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DenisUsoltsev/Market-App#readme",
+  "bugs": {
+    "url": "https://github.com/DenisUsoltsev/Market-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisUsoltsev/Market-App.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "devDependencies": {
+    "vite": "^6.0.4"
+  }
+}
